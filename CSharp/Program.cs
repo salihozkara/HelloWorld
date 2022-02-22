@@ -1,6 +1,7 @@
-﻿using System;
+﻿// Print Hello World
 
-namespace ConsoleApp
+using System;
+namespace HelloWorld
 {
     class Program
     {
